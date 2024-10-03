@@ -1,3 +1,3 @@
-# app_navigator
+# Flutter Course
 
 A new Flutter project.
